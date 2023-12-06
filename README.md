@@ -5,6 +5,7 @@ Libaries used: NumPy, Seaborn, Pandas, Matplotlib. Sklearn.cluster
 
 This project was part of "Python in Data Science and Machine Learning Bootcamp" on Udemy. KMeans clustering was used to determine whether a college was public or private based on the following features:
 ◼ Apps Number of applications received
+
 ◼ Accept Number of applications accepted
 ◼ Enroll Number of new students enrolled
 ◼ Top10perc Pct. new students from top 10% of H.S. class
