@@ -39,4 +39,4 @@ This project was part of "Python in Data Science and Machine Learning Bootcamp" 
 
 ◼ Grad.Rate Graduation rate
 
-The steps taken were to first perform exploritory data analysis to understand each feature, build and fit the kmeans model, and evaluate. (We had the private data for learning purposes. *Please note: in most situations you do not have access to real labels per classification*)
+The steps taken were: 1. Performed exploritory data analysis to understand each feature 2. build and fit the kmeans model and 3. evaluate. (We had the private data for learning purposes. *Please note: in most situations you do not have access to real labels per classification*)
